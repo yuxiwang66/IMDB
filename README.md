@@ -1,3 +1,3 @@
-imdb.npz为IMDB的数据集
+imdb.npz为IMDB的数据集(This file is a dataset of IMDB)
 
-imdb.py是基于keras的电影评论二分类问题代码，复制到编译器中可直接运行
+imdb.py (This file is a code of movie binary classification based on Keras)
